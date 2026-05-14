@@ -27,7 +27,7 @@
 
   "dns":{
     "hosts": {
-	  "fastly.redirect": "pypi.org",
+	  "fastly.redirect": "python.org",
       "akamai.redirect": "92.123.102.43"
     },
     "servers": [
